@@ -1,0 +1,8 @@
+.app{
+  display: block;
+  border: 6px double brown;
+  background-color: whitesmoke;
+  width: 50%;
+  margin: auto;
+  padding: 25px;
+}
